@@ -1,0 +1,14 @@
+From: sender@example.com
+To: recipient@example.com
+Subject: Test Email with JSON Link
+Date: Thu, 21 Sep 2024 11:35:41 -0400
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Hello,
+
+This is a test email. You can find the JSON data at the following link:
+https://raw.githubusercontent.com/aws/aws-lambda-go/refs/heads/main/events/testdata/ses-sns-event.json
+
+Best regards,
+Sender
